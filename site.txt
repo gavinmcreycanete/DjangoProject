@@ -1,0 +1,12 @@
+
+[How To Install Node.js on an Ubuntu 14.04 server]
+site: https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
+
+[Package Control]
+site: https://packagecontrol.io/installation
+
+[Connecting to Github with SSH]
+site: https://help.github.com/articles/connecting-to-github-with-ssh/
+
+[Insalling Sublime Text 2/3]
+site: https://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3
